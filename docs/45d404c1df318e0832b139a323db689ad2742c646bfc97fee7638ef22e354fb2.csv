@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"APIS from PetStore","Crear una mascota exitosamente","SUCCESS","2026-07-14T20:25:02.3169557-05:00[America/Lima]","0.0","3.44"
+"APIS from PetStore","Actualizar datos de una mascota exitosamente","SUCCESS","2026-07-14T20:25:06.4298204-05:00[America/Lima]","0.0","1.35"
+"APIS from PetStore","Eliminar una mascota exitosamente","SUCCESS","2026-07-14T20:25:07.7912564-05:00[America/Lima]","0.0","1.38"
